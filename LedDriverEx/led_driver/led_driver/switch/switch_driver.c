@@ -6,7 +6,7 @@
  */ 
 
 #include <avr/io.h>
-#include "switch/switch_driver.h"
+#include "switch_driver.h"
 
 void init_keys()
 {
